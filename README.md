@@ -1,5 +1,17 @@
 # React + TypeScript + Vite
 
+Funcionamento
+Instale essas bibliotecas
+npm install
+npm i axios
+npm install tailwindcss @tailwindcss/vite
+npm i styled-components
+npm install --save-dev @types/styled-components
+npm install react-router-dom
+E então de npm run dev
+
+Insira o nome de usuario na página home e então selecione através dos botões qual estilo você quer.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
