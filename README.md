@@ -54,3 +54,4 @@ export default tseslint.config({
 ```
 "# TrabalhoLuis" 
 "# TrabalhoLuis" 
+"# Praticas-Tailwind-Styled" 
